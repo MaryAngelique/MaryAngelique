@@ -18,7 +18,7 @@ I am fluent in HTML5, CSS, JavaScript, React JS, Git, and Redux. I am also learn
 - [LinkedIn](https://www.linkedin.com/in/mary-angelique-abacajan/)
 - [Gmail](mangelique9800@gmail.com)
 
-# 🛠 Tools I love
+# 🛠 Languages and Tools
 - [JavaScript](https://www.javascript.com/)
 - [React JS](https://reactjs.org/)
 - [Redux](https://redux.js.org)
