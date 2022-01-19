@@ -14,7 +14,6 @@ I am an enthusiastic and driven Full Stack Web Developer student in BloomTech (f
 # How to reach me
 - [LinkedIn](https://www.linkedin.com/in/mary-angelique-abacajan/)
 - [Gmail](mangelique9800@gmail.com)
-- [Resume](https://github.com/MaryAngelique/MaryAngelique/files/7900698/Resume.BloomTech.pdf)
 
 # 🛠 Tools I love
 - [JavaScript](https://www.javascript.com/)
@@ -23,3 +22,4 @@ I am an enthusiastic and driven Full Stack Web Developer student in BloomTech (f
 - [CSS]()
 - [HTML](https://html.com/)
 
+- [Resume](https://github.com/MaryAngelique/MaryAngelique/files/7900698/Resume.BloomTech.pdf)
