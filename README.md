@@ -2,7 +2,10 @@
 
 👋 My name is **Angelique!**
 I am an enthusiastic and driven Full Stack Web Developer student in BloomTech (fka, Lambda School).
- ![pixton-avatar-full-body](https://user-images.githubusercontent.com/51681480/150216395-d0d19409-e907-4056-8997-a40ce2dc6b54.png)
+![pixton-avatar-full-body](https://user-images.githubusercontent.com/51681480/150216395-d0d19409-e907-4056-8997-a40ce2dc6b54.png)
+
+I am efficient in utilizing GitHub, Zoom, Slack, Trello, Google Suite, and Microsoft Office 365.
+I am fluent in HTML5, CSS, JavaScript, React JS, Git, and Redux. I am also learning Python and Kotlin on the side. As well as I can create a well developed databases utilizing PGAdmin 4, PostgreSQL, AWS RDS, SQLite Studio.
 
 
 # About Me
