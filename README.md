@@ -10,7 +10,7 @@ My name is Angelique! The Tech Industry is in my DNA as I followed the technical
 # About Me
 - ##### 🔭 I’m currently working on a portfolio website to create a further understanding of my FullStack Web Development course in BloomTech
 - ##### 🌱 I’m currently learning Applied Computer Science
-- ##### 👩🏻‍💻 I’m currently working on freeCodeCamp, commiting 300+ hours to have a further knowledge in JavaScript Algorithms and Data Structures
+- ##### 👩🏻‍💻 I’m currently working on freeCodeCamp, commiting 300+ hours to have a further knowledge in JavaScript Algorithms and Data Structures and Responsive Web Design
 - ##### ⚡ Fun fact: I was born and raised in the Philippines. I moved in the United States back in 2014 to get a heart surgery!
 
 # 📫 How to reach me
