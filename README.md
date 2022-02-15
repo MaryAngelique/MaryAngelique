@@ -21,7 +21,7 @@ My name is Angelique! The Tech Industry is in my DNA as I followed the technical
 # 📄 Resume
 [Resume](https://github.com/MaryAngelique/MaryAngelique/files/7900698/Resume.BloomTech.pdf)
 
-
+ 
 # 🛠 Tools
 
 ### Languages
