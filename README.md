@@ -11,7 +11,7 @@ As an enthusiastic and driven Full Stack Web Developer, I am looking to secure a
 # About Me
 - ##### 🔭 I’m currently working on a portfolio website to create a further understanding and to showcase my technical skills that I learned by being a student at BloomTech
 - ##### 🌱 I’m currently learning Applied Computer Science
-- ##### 👩🏻‍💻 I’m currently working on a labs project names CoderHeroes
+- ##### 👩🏻‍💻 I’m currently working on a labs project named CoderHeroes
 - ##### ⚡ Fun fact: I was born and raised in the Philippines. I moved in the United States back in 2014 to get a heart surgery!
 
 # 📫 How to reach me
