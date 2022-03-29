@@ -4,7 +4,8 @@
 I am an enthusiastic and driven Full Stack Web Developer.
 ![pixton-avatar-full-body](https://user-images.githubusercontent.com/51681480/150216395-d0d19409-e907-4056-8997-a40ce2dc6b54.png) 
 
-The Tech Industry is in my DNA as I followed the technical footsteps of my father, who is my biggest supporter. Growing up in the Philippines, I remembered as a young child not having technological resources. As I grow up and thought about my career, I want the future generations to have an easy access to technology. As an enthusiastic and driven Full Stack Web Developer, currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to secure a FrontEnd Developer or Software Developer position to utilize my strong technical and programming skills.
+Technology is in my DNA as I followed the technical footsteps of my father who is my biggest supporter. Growing up in the Philippines, I remembered as a young child not having technological resources and as I became an adult, I began to think more about my career goals. Furthermore, I want to help pave the way that will allow future generations to have easy access to follow their dreams in technology. 
+As an enthusiastic and driven Full Stack Web Developer, I am looking to secure a FrontEnd Developer or Software Developer position that will showcase my strong technical and programming skills.
 
 
 # About Me
