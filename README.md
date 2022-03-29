@@ -1,7 +1,7 @@
 # Mary Angelique A. Abacajan 
 
 👋 My name is **Angelique!**
-I am an enthusiastic and driven Full Stack Web Developer student in BloomTech (fka, Lambda School).
+I am an enthusiastic and driven Full Stack Web Developer.
 ![pixton-avatar-full-body](https://user-images.githubusercontent.com/51681480/150216395-d0d19409-e907-4056-8997-a40ce2dc6b54.png) 
 
 My name is Angelique! The Tech Industry is in my DNA as I followed the technical footsteps of my father, who is my biggest supporter. Growing up in the Philippines, I remembered as a young child not having technological resources. As I grow up and thought about my career, I want the future generations to have an easy access to technology. As an enthusiastic and driven Full Stack Web Developer, currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to secure a FrontEnd Developer or Software Developer position to utilize my strong technical and programming skills.
