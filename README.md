@@ -16,7 +16,7 @@ As an enthusiastic and driven Full Stack Web Developer, I am looking to secure a
 
 # 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/mary-angelique-abacajan/)
-- Gmail: mangelique9800@gmail.com
+- Gmail: abacajanma@gmail.com
 
 
 # 📄 Resume
