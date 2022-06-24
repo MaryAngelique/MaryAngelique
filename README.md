@@ -1,4 +1,5 @@
-# Mary Angelique A. Abacajan 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm;Mary+Angelique+Abacajan;A+Full+Stack+Developer;Front-End+Developer&center=true&width=550&height=50&color=cc313d"></a>
+ </div>
 
 👋 My name is **Angelique!**
 I am an enthusiastic and driven Full Stack Web Developer.
